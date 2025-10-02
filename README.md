@@ -40,6 +40,7 @@ Linguagens & Tecnologias: `Python`, `TypeScript`, `JavaScript`, `Power Bi`, `Pys
 <code><img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre"/></code>
 <code><img height="32" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="Mongo"/></code>
 
+## Projetos
 ---
 
 <p >
