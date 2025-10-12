@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Experiência de trabalho
+---
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 • **Estágio** \
@@ -23,18 +24,20 @@ Linguagens & Tecnologias: `Python`, `TypeScript`, `JavaScript`, `Power Bi`, `Pys
 
 ---
 ## Linguagens
-
+---
 <code><img height="32" src="https://www.python.org/static/img/python-logo.png" alt="Python"/></code>
 <code><img height="32" src="https://www.r-project.org/Rlogo.png" alt="R"/></code>
 <code><img height="32" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL"/></code>
 
 ## Frameworks e Bibliotecas
+---
 <code><img height="32" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"/></code>
 <code><img height="32" src="https://www.gstatic.com/devrel-devsite/prod/v542d3325b8c925a6e7dd14f19a8348c865acec191636e2a431745f59e1ae1e12/tensorflow/images/lockup.svg" alt="TensorFlow"/></code>
 <code><img height="32" src="https://keras.io/img/logo.png" alt="Keras"/></code>
 <code><img height="32" src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="Flask"/></code>
 
 ## Ferramentas
+---
 <code><img height="32" src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" alt="Databricks"/></code>
 <code><img height="32" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="PowerBi"/></code>
 <code><img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre"/></code>
