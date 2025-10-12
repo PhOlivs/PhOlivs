@@ -42,6 +42,7 @@ Linguagens & Tecnologias: `Python`, `TypeScript`, `JavaScript`, `Power Bi`, `Pys
 
 ## Projetos
 ---
+| [Atividade Prática Supervisionada - 4°Semestre](https://github.com/PhOlivs/APS_4sem "Buttons to add/remove contrast and increase/decrease font size.")
 
 <p >
     <picture align="center">
