@@ -1,56 +1,133 @@
-<h1 align="center">Olá!,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Eu me chamo <a href="https://github.com/PhOlivs/">Paulo<a> 
+<div align="center">
+  
+# 👋 Olá, eu sou Paulo Henrique!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Estagiário;Apaixonado+por+IA+e+Machine+Learning)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=PhOlivs&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-6720762b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhOlivs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulohenrique58432@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](my-gitfolio.vercel.app/portfolio/PhOlivs)
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:paulohenrique58432@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-6720762b2/" alt="LinkedIn"/></a>
-  <a href="#" title="GitHub">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PhOlivs" alt="GitHub"/></a>
-
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-### Experiência de trabalho
----
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-• **Estágio** \
-[**Banco Santander Brasil S.A.**](https://www.santander.com.br/) • Meio-Período \
-• **2025 - Atual** \
-Linguagens & Tecnologias: `Python`, `TypeScript`, `JavaScript`, `Power Bi`, `Pyspark`,`Batch Script`,`SQL`,\
-<br/>
+</div>
 
 ---
-## Linguagens
----
-<code><img height="32" src="https://www.python.org/static/img/python-logo.png" alt="Python"/></code>
-<code><img height="32" src="https://www.r-project.org/Rlogo.png" alt="R"/></code>
-<code><img height="32" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL"/></code>
 
-## Frameworks e Bibliotecas
----
-<code><img height="32" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"/></code>
-<code><img height="32" src="https://www.gstatic.com/devrel-devsite/prod/v542d3325b8c925a6e7dd14f19a8348c865acec191636e2a431745f59e1ae1e12/tensorflow/images/lockup.svg" alt="TensorFlow"/></code>
-<code><img height="32" src="https://keras.io/img/logo.png" alt="Keras"/></code>
-<code><img height="32" src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="Flask"/></code>
+## Sobre Mim
 
-## Ferramentas
+Apaixonado por transformar dados em insights acionáveis e construir soluções inteligentes com Machine Learning. Atualmente, contribuo para inovações tecnológicas no **Banco Santander Brasil**, onde desenvolvo pipelines de dados, dashboards analíticos e automações que impulsionam decisões estratégicas.
+
 ---
-<code><img height="32" src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" alt="Databricks"/></code>
-<code><img height="32" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="PowerBi"/></code>
-<code><img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgre"/></code>
-<code><img height="32" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="Mongo"/></code>
+
+## Formação & Certificações
+
+**Bacharelado em Ciência da Computação** - Universidade Paulista - UNIP  
+
+**Certificados:**
+- Microsoft Power BI Data Analyst
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Professional Certificate
+
+---
+```python
+class DataEnthusiast:
+    def __init__(self):
+        self.name = "Paulo Henrique Oliveira da Silva"
+        self.role = "Data Analyst"
+        self.location = "Brasil 🇧🇷"
+        self.interests = ["Machine Learning", "Data Analytics", "BI", "Automation"]
+    
+    def say_hi(self):
+        print("Vamos transformar dados em valor juntos!")
+
+me = DataEnthusiast()
+me.say_hi()
+```
+
+---
+
+## Experiência Profissional
+
+### **Estagiário — Banco Santander Brasil S.A.**
+**Meio-Período** | **2025 - Atual**
+
+- Desenvolvimento de dashboards interativos em **Power BI** para monitoramento de KPIs estratégicos
+- Criação de pipelines de dados com **PySpark** e **Databricks**
+- Automação de processos operacionais com **Python** e **Batch Script**
+- Modelagem e otimização de consultas em **SQL** para bancos de dados corporativos
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Frameworks e Bibliotecas
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhOlivs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhOlivs&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhOlivs&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
 
 ## Projetos
----
-| [Atividade Prática Supervisionada - 4°Semestre](https://github.com/PhOlivs/APS_4sem "Buttons to add/remove contrast and increase/decrease font size.")
 
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
+### [Atividade Prática Supervisionada](https://github.com/PhOlivs/APS_4sem)
+Projeto desenvolvido no 4° Semestre do curso de **Ciência da Computação** parte da disciplina de Estrutura de Dados e consiste em um sistema para analisar a performance de algoritmos de detecção de desmatamento na Amazônia e no Cerrado.
+
+---
+
+## Vamos Conectar?
+
+Estou sempre aberto a novos desafios, colaborações e oportunidades! Sinta-se à vontade para entrar em contato:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-6720762b2/)
+[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulohenrique58432@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Dados são o novo petróleo, mas insights são o combustível da inovação"*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PhOlivs.PhOlivs)
+[![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet&style=flat-square)](https://github.com/PhOlivs)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
