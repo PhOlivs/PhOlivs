@@ -82,7 +82,7 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhOlivs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -117,7 +117,7 @@ Estou sempre aberto a novos desafios, colaborações e oportunidades! Sinta-se �
 
 <div align="center">
 
-### 💡 *"Dados são o novo petróleo, mas insights são o combustível da inovação"*
+### *"Dados são o novo petróleo, mas insights são o combustível da inovação"*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PhOlivs.PhOlivs)
 [![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet&style=flat-square)](https://github.com/PhOlivs)
