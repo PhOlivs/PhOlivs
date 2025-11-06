@@ -122,7 +122,7 @@ Estou sempre aberto a novos desafios, colaborações e oportunidades! Sinta-se �
 
 <div align="center">
 
-### *"Dados são o novo petróleo, mas insights são o combustível da inovação"*
+### *"Geralmente, a pergunta certa é mais importante do que a resposta certa."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PhOlivs.PhOlivs)
 [![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet&style=flat-square)](https://github.com/PhOlivs)
