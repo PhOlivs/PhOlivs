@@ -14,20 +14,17 @@
 
 ## Sobre Mim
 
-Apaixonado por transformar dados em insights acionáveis e construir soluções inteligentes com Machine Learning. Atualmente, contribuo para inovações tecnológicas no **Banco Santander Brasil**, onde desenvolvo pipelines de dados, dashboards analíticos e automações que impulsionam decisões estratégicas.
+Atuo com entusiasmo no desenvolvimento de soluções baseadas em dados, desenvolvo projetos de automação e análise, estudo Machine Learning. Atualmente sou estagiário, contribuo para a criação de pipelines eficientes, dashboards estratégicos e fluxos automatizados que geram impacto real no negócio.
 
+Sempre em busca de aprender, inovar e compartilhar conhecimento — porque tecnologia só faz sentido quando muda o mundo para melhor. 
 ---
 
 ## Formação & Certificações
 
-**Bacharelado em Ciência da Computação** - Universidade Paulista - UNIP  
-
-**Certificados:**
-- Microsoft Power BI Data Analyst
-- AWS Certified Cloud Practitioner
-- Google Data Analytics Professional Certificate
+**Bacharelado em Ciência da Computação** - Universidade Paulista - UNIP 
 
 ---
+
 ```python
 class DataEnthusiast:
     def __init__(self):
