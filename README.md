@@ -17,6 +17,7 @@
 Atuo com entusiasmo no desenvolvimento de soluções baseadas em dados, desenvolvo projetos de automação e análise, estudo Machine Learning. Atualmente sou estagiário, contribuo para a criação de pipelines eficientes, dashboards estratégicos e fluxos automatizados que geram impacto real no negócio.
 
 Sempre em busca de aprender, inovar e compartilhar conhecimento — porque tecnologia só faz sentido quando muda o mundo para melhor. 
+
 ---
 
 ## Formação & Certificações
