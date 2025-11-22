@@ -26,21 +26,6 @@ Sempre em busca de aprender, inovar e compartilhar conhecimento — porque tecno
 
 ---
 
-```python
-class DataEnthusiast:
-    def __init__(self):
-        self.name = "Paulo Henrique Oliveira da Silva"
-        self.role = "Data Analyst"
-        self.location = "Brasil 🇧🇷"
-        self.interests = ["Machine Learning", "Data Analytics", "BI", "Automation"]
-    
-    def say_hi(self):
-        print("Vamos transformar dados em valor juntos!")
-
-me = DataEnthusiast()
-me.say_hi()
-```
-
 ---
 
 ## Experiência Profissional
