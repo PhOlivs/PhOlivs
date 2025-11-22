@@ -26,8 +26,6 @@ Sempre em busca de aprender, inovar e compartilhar conhecimento — porque tecno
 
 ---
 
----
-
 ## Experiência Profissional
 
 ### **Estagiário — Banco Santander Brasil S.A.**
