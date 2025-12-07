@@ -70,19 +70,6 @@ Sempre em busca de aprender, inovar e compartilhar conhecimento — porque tecno
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhOlivs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhOlivs&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhOlivs&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## Projetos
 
 ### [Atividade Prática Supervisionada](https://github.com/PhOlivs/APS_4sem)
