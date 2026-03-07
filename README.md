@@ -75,8 +75,9 @@ Sempre em busca de aprender, inovar e compartilhar conhecimento — porque tecno
 ### [Atividade Prática Supervisionada](https://github.com/PhOlivs/APS_4sem)
 Projeto desenvolvido no 4° Semestre do curso de **Ciência da Computação** parte da disciplina de Estrutura de Dados e consiste em um sistema para analisar a performance de algoritmos de detecção de desmatamento na Amazônia e no Cerrado.
 
-### [Atividade Prática - Computação Gráfica](https://github.com/PhOlivs/trabalho_computacao_grafica)
+### [Atividade Prática - Computação Gráfica](https://github.com/PhOlivs/trabalho_computacao_grafica)  
 Projeto desenvolvido no 5° Semestre do curso de **Ciência da Computação** parte da disciplina de Computação Gráfica e consiste em jogo 2D baseado no clássico "SNAKE".
+
 ---
 
 ## Vamos Conectar?
