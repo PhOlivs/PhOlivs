@@ -25,7 +25,7 @@ Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores 
 São Paulo, Brasil
 Ciência da Computação — UNIP (em andamento)
 Trabalho: Estagiário de Pricing — Banco Santander Brasil S.A. (2025–atual)
-Estudando: Databricks, Kafka, C++, Ruby, Economia
+Estudando: Databricks, Kafka, C++, Ruby, Angular, JavaScript, NestJs
 Hobbies: Machine Learning, Ciência de Dados, Astronomia, Biomedicina
 Interesses: Desenvolvimento de Games, Análises de Dados, Programação, Health Tech, Engenharia Aeroespacial
 
@@ -48,10 +48,13 @@ Interesses: Desenvolvimento de Games, Análises de Dados, Programação, Health 
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-276DC3?style=flat-square&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **Dados & Cloud**
 
