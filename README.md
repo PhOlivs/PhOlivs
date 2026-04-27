@@ -22,10 +22,10 @@
 Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores de precificação, automações com Python. Curso **Ciência da Computação** na UNIP e estudo Machine Learning, Ciência de Dados e Astronomia nas horas vagas. Acredito que dados só têm valor quando geram decisões melhores.
 
 ```text
-📍 São Paulo, Brasil
-🎓 Ciência da Computação — UNIP (em andamento)
-💼 Estagiário de Pricing — Banco Santander Brasil S.A. (2025–atual)
-🌱 Estudando: Databricks, Kafka, C++, Propulsão de Foguetes
+São Paulo, Brasil
+Ciência da Computação — UNIP (em andamento)
+Estagiário de Pricing — Banco Santander Brasil S.A. (2025–atual)
+Estudando: Databricks, Kafka, C++, Propulsão de Foguetes
 ```
 
 ---
@@ -96,7 +96,7 @@ Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores 
 | [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Análise comparativa de algoritmos para detecção de desmatamento na Amazônia e no Cerrado | Python · Matéria Estrutura de Dados |
 | [**Ping-Pong 2D**](https://github.com/PhOlivs/jogo-ping-pong) | Jogo baseado no clássico arcade, com física de colisão e renderização em tempo real | Python · PyGame · Matéria Computação Gráfica |
 | [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação gravitacional completa do Sistema Solar e visualizações científicas 2D/3D. | Python · Astronomia|
-| [**Simulador de Lentes Gravitacionais **](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Simulação de lentes gravitacionais com ray tracing inverso. | Python · Astronomia|
+| [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Simulação de lentes gravitacionais com ray tracing inverso. | Python · Astronomia|
 ---
 
 <div align="center">
