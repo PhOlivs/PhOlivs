@@ -74,17 +74,6 @@ Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Hobbies**
-
-![Astronomia](https://img.shields.io/badge/Astronomia-F05032?style=flat-square&logo=Astronomia&logoColor=white)
-![Engenharia Aeroespacial](https://img.shields.io/badge/EngenhariaAeroespacial-F37626?style=flat-square&logo=EngenhariaAeroespacial&logoColor=white)
-![Engenharia de Dados](https://img.shields.io/badge/EngenhariadeDados-000000?style=flat-square&logo=EngenhariadeDados&logoColor=white)
-![Ciência de Dados](https://img.shields.io/badge/CiênciadeDados-007ACC?style=flat-square&logo=CiênciadeDados&logoColor=white)
-![Biomedicina](https://img.shields.io/badge/Biomedicina-007ACC?style=flat-square&logo=Biomedicina&logoColor=white)
-![Inteligência Artificial](https://img.shields.io/badge/InteligênciaArtificial-007ACC?style=flat-square&logo=InteligênciaArtificial&logoColor=white)
-
-
-
 ---
 
 ### GitHub Stats
@@ -104,9 +93,10 @@ Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Análise comparativa de algoritmos para detecção de desmatamento na Amazônia e no Cerrado | Python · Estrutura de Dados |
-| [**Ping-Pong 2D**](https://github.com/PhOlivs/jogo-ping-pong) | Jogo baseado no clássico arcade, com física de colisão e renderização em tempo real | Python · OpenGL |
-
+| [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Análise comparativa de algoritmos para detecção de desmatamento na Amazônia e no Cerrado | Python · Matéria Estrutura de Dados |
+| [**Ping-Pong 2D**](https://github.com/PhOlivs/jogo-ping-pong) | Jogo baseado no clássico arcade, com física de colisão e renderização em tempo real | Python · PyGame · Matéria Computação Gráfica |
+| [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação gravitacional completa do Sistema Solar e visualizações científicas 2D/3D. | Python · Astronomia|
+| [**Simulador de Lentes Gravitacionais **](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Simulação de lentes gravitacionais com ray tracing inverso. | Python · Astronomia|
 ---
 
 <div align="center">
