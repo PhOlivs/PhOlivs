@@ -74,6 +74,17 @@ Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+**Hobbies**
+
+![Astronomia](https://img.shields.io/badge/Astronomia-F05032?style=flat-square&logo=Astronomia&logoColor=white)
+![Engenharia Aeroespacial](https://img.shields.io/badge/EngenhariaAeroespacial-F37626?style=flat-square&logo=EngenhariaAeroespacial&logoColor=white)
+![Engenharia de Dados](https://img.shields.io/badge/EngenhariadeDados-000000?style=flat-square&logo=EngenhariadeDados&logoColor=white)
+![Ciência de Dados](https://img.shields.io/badge/CiênciadeDados-007ACC?style=flat-square&logo=CiênciadeDados&logoColor=white)
+![Biomedicina](https://img.shields.io/badge/Biomedicina-007ACC?style=flat-square&logo=Biomedicina&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/InteligênciaArtificial-007ACC?style=flat-square&logo=InteligênciaArtificial&logoColor=white)
+
+
+
 ---
 
 ### GitHub Stats
