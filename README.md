@@ -24,13 +24,16 @@ Estagiário de Pricing no **Banco Santander Brasil**, onde trabalho com motores 
 ```text
 São Paulo, Brasil
 Ciência da Computação — UNIP (em andamento)
-Estagiário de Pricing — Banco Santander Brasil S.A. (2025–atual)
-Estudando: Databricks, Kafka, C++, Propulsão de Foguetes
+Trabalho: Estagiário de Pricing — Banco Santander Brasil S.A. (2025–atual)
+Estudando: Databricks, Kafka, C++, Ruby, Economia
+Hobbies: Machine Learning, Ciência de Dados, Astronomia, Biomedicina
+Interesses: Desenvolvimento de Games, Análises de Dados, Programação, Health Tech, Engenharia Aeroespacial
+
 ```
 
 ---
 
-### Experiência
+### Experiência em Tecnologia
 
 **Banco Santander Brasil S.A. — Estagiário de Pricing** *(2025–atual)*
 
