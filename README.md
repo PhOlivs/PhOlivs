@@ -27,7 +27,7 @@ Ciência da Computação — UNIP (em andamento)
 Trabalho: Estagiário de Pricing — Banco Santander Brasil S.A. (2025–atual)
 Estudando: Databricks, Kafka, C++, Ruby, Angular, JavaScript, NestJs
 Hobbies: Machine Learning, Ciência de Dados, Astronomia, Biomedicina
-Interesses: Desenvolvimento de Games, Análises de Dados, Programação, Health Tech, Engenharia Aeroespacial
+Interesses: Desenvolvimento de Games, Análises de Dados, Programação, Health Tech, Engenharia Aeroespacial, Biomedicina
 
 ```
 
