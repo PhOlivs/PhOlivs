@@ -106,6 +106,7 @@ Interesses: Desenvolvimento de Games, Análises de Dados, Programação, Health 
 | [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação gravitacional completa do Sistema Solar e visualizações científicas 2D/3D. | Python · Astronomia|
 | [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Simulação de lentes gravitacionais com ray tracing inverso. | Python · Astronomia|
 | [**Estudos Sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Ferramenta educacional de bioinformática médica para exploração interativa de genes associados ao câncer. | BioPython · Bioinformática|
+| [**Desafio Front End - Studio Ghibli**](https://github.com/PhOlivs/Desafio-StudioGhibli) |Desafio criativo para desenvolvimento. | HTML · CSS · JavaScript|
 ---
 
 <div align="center">
