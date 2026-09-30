@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Paulo Henrique 👋⚔️</h1>
+<h1 align="center">Olá, eu sou o Paulo Henrique 👋</h1>
 <h3 align="center">Data Scientist/Analyst </h3>
 
 <p align="center">
@@ -68,9 +68,6 @@ Sou o **Paulo Henrique Oliveira da Silva**. Trabalho com dados — analisando, m
 | Projeto | O que é | Stack |
 |---|---|---|
 | 🌳 [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Modelo pra identificar áreas desmatadas a partir de imagens/dados de satélite | `Python` |
-| 🏓 [**Ping-Pong 2D**](https://github.com/PhOlivs/jogo-ping-pong) | Um clássico reinventado — porque todo dev de games precisa recriar o Pong pelo menos uma vez na vida | `Python` |
 | 🪐 [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação de corpos celestes e suas órbitas — física de verdade, sem efeitos especiais de Hollywood | `Python` |
 | 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz — Einstein aprovaria (eu acho) | `Python` |
 | 🧬 [**Estudos sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Análise exploratória de dados genéticos ligados ao câncer | `Python` |
-| 🎨 [**Desafio Front End – Studio Ghibli**](https://github.com/PhOlivs/Desafio-StudioGhibli) | Consumindo API pública pra montar uma interface com a estética Ghibli | `HTML` `javaScript` `CSS` |
-| 📓 [**APS 5° Semestre - Sistema Biométrico**](https://github.com/PhOlivs/sistema-biometrico) | Atividade acadêmica para a elaboração de um sistema de reconhecimento facial |`Python` `HTML` `javaScript` `CSS` |
