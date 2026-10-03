@@ -68,6 +68,6 @@ Sou o **Paulo Henrique Oliveira da Silva**. Trabalho com dados — analisando, m
 | Projeto | O que é | Stack |
 |---|---|---|
 | 🌳 [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Modelo pra identificar áreas desmatadas a partir de imagens/dados de satélite | `Python` |
-| 🪐 [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação de corpos celestes e suas órbitas — física de verdade, sem efeitos especiais de Hollywood | `Python` |
-| 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz — Einstein aprovaria (eu acho) | `Python` |
+| 🪐 [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação de corpos celestes e suas órbitas | `Python` |
+| 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz | `Python` |
 | 🧬 [**Estudos sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Análise exploratória de dados genéticos ligados ao câncer | `Python` |
