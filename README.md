@@ -71,3 +71,4 @@ Sou o **Paulo Henrique Oliveira da Silva**. Trabalho com dados — analisando, m
 | 🪐 [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação de corpos celestes e suas órbitas | `Python` |
 | 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz | `Python` |
 | 🧬 [**Estudos sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Análise exploratória de dados genéticos ligados ao câncer | `Python` |
+| 🧬 [**Resolução dos Problemas de Rosalind**](https://github.com/PhOlivs/ProblemasRosalind) | Estudos bioinformáticos | `Python` |
