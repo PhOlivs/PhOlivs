@@ -66,10 +66,10 @@ Sou o **Paulo Henrique Oliveira da Silva**. Trabalho com dados — analisando, m
 ### 🚀 Alguns Projetos que Curti Construir
 
 | Projeto | O que é | Área de atuação | Stack |
-|---|---|---|
-| 🌳 [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Modelo pra identificar áreas desmatadas a partir de imagens/dados de satélite | Meio Ambiente | `Python` |
-| 🪐 [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação de corpos celestes e suas órbitas | Astronomia | `Python` |
-| 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz | Astronomia | `Py thon` |
-| 🧬 [**Estudos sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Análise exploratória de dados genéticos ligados ao câncer | Bioinformática | `Python` |
-| 🧬 [**Resolução dos Problemas de Rosalind**](https://github.com/PhOlivs/ProblemasRosalind) | Estudos bioinformáticos | Bioinformática | `Python` |
-| 💰 [**Inflação e Custo de Vida no Brasil**](https://github.com/PhOlivs/Projeto-IPCA) | Uma análise exploratória do IPCA desde 2020 | Economia | `R` |
+|---|---|---|---|
+| 🌳 [**Detector de Desmatamento**](https://github.com/PhOlivs/APS_4sem) | Modelo para identificar áreas desmatadas a partir de imagens e dados de satélite. | Meio Ambiente | `Python` |
+| 🪐 [**Simulador de Mecânica Celeste**](https://github.com/PhOlivs/Simulador_Mecanica_Celeste) | Simulação de corpos celestes e suas órbitas. | Astronomia | `Python` |
+| 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz. | Astronomia | `Python` |
+| 🧬 [**Estudos sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Análise exploratória de dados genéticos relacionados ao câncer. | Bioinformática | `Python` |
+| 🧬 [**Resolução dos Problemas de Rosalind**](https://github.com/PhOlivs/ProblemasRosalind) | Resolução de problemas e exercícios de bioinformática. | Bioinformática | `Python` |
+| 💰 [**Inflação e Custo de Vida no Brasil**](https://github.com/PhOlivs/Projeto-IPCA) | Análise exploratória da evolução do IPCA no Brasil desde 2020. | Economia | `R` |
