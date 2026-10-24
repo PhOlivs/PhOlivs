@@ -72,3 +72,4 @@ Sou o **Paulo Henrique Oliveira da Silva**. Trabalho com dados — analisando, m
 | 🔭 [**Simulador de Lentes Gravitacionais**](https://github.com/PhOlivs/Simulador_LentesGravitacionais) | Visualização de como a gravidade curva a luz | `Python` |
 | 🧬 [**Estudos sobre Genes Cancerígenos**](https://github.com/PhOlivs/Estudo-ExploradorCancerigeno) | Análise exploratória de dados genéticos ligados ao câncer | `Python` |
 | 🧬 [**Resolução dos Problemas de Rosalind**](https://github.com/PhOlivs/ProblemasRosalind) | Estudos bioinformáticos | `Python` |
+| 💰 [**Inflação e Custo de Vida no Brasil**](https://github.com/PhOlivs/Projeto-IPCA) | Uma análise exploratória do IPCA desde 2020 | `R` |
